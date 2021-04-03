@@ -15,5 +15,22 @@
     "fb_native_bannerid": "770936526867997_770940773534239",
     "fb_nativeid": "770936526867997_770941000200883",
     "unity_interid": ""
+  },
+  "com.winzogoldwinzo.winwinzogold": {
+    "localad_url": "",
+    "check_livetv_mode": "off",
+    "livetv_url": "http://68.183.85.1:8081/live/digi4/playlist.m3u8",
+    "qureka_url": "http://725.win.qureka.com/",
+    "check_qureka_mode": "on",
+    "admob_appid": "",
+    "admob_interid": "",
+    "admob_bannerid": "",
+    "admob_nativebannerid": "",
+    "admob_appopenid": "",
+    "fb_interid": "",
+    "fb_bannerid": "",
+    "fb_native_bannerid": "",
+    "fb_nativeid": "",
+    "unity_interid": ""
   }
 }
